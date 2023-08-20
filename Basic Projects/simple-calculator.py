@@ -1,21 +1,13 @@
-# name="Asmita"
-# grade=12
-# section="mgmt"
-# a="Yes"
-# if a == "No":
-#     print(name,"from",grade,section,"is Present")
-# else:
-#     print(name,"from",grade,section,"is Absent")
-
-# print("Thank You!!")
-
-# def am(a,b):
-#     print((a+b)/2)
-
-# am(2,3)
 '''
-Hoosnskdddkfnnjfjkdms
+Some info about project:
+Name of Project: Simple Calculator for addition, subraction, multiplication, division using python.
+Project By: Ashish Neupane
+Language: Python
+Created on: 2023/04/14
+Uploaded on Github: 2023/08/20
+***This Project was made after I learned basic of Python.***
 '''
+
 num1 = input("Enter First Number: ")
 operation = input("Select Operation(+, -, *, /): ")
 num2 = input("Enter Second Number: ")
